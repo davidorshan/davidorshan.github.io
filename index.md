@@ -1,3 +1,3 @@
 # Dave Land
 
-David's Blog
+I will attempt once again to have a blog.
